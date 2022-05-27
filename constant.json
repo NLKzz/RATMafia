@@ -1,0 +1,23 @@
+{
+    "avalanche": {
+        "traderjoe" : {
+            "rpc" : "",
+            "router_address" : "",
+            "factory_address" : ""
+        },
+
+        "pangolin" : {
+            "rpc" : "",
+            "router_address" : "",
+            "factory_address" : ""
+        }
+    },
+
+    "bsc": {
+        "pancakeswap" : {
+            "rpc" : "",
+            "router_address" : "",
+            "factory_address" : ""
+        }
+    }
+}

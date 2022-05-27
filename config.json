@@ -1,21 +1,18 @@
 {
-    "HTTPProvider" : "",
+    "metamask_address": "0xa7d8d078Fa7407EB661360F387B3c7384eFCE62F",
 
-    "metamask_address": "",
-    "metamask_private_key": "",
-
-    "api_id" :  ,
-    "api_hash" : "",
-    "discord_token" : "",
+    "api_id" : 9948553,
+    "api_hash" : "33777cf2d6fd1958d1253ded6c690aee",
+    "discord_token" : "mfa.Dl2X0HVlHKvjDUAN1uqanyZWA0ewEfTsN7FxyJONNNWr-Io1KUajQelw0uhQ9UQHCKb9xWsTY7x5_qrcM8L5",
     
     "token_paired_address" : "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
 
-    "amount_in": 0.1,
+    "amount_in": 0.5,
     "blocks_to_wait": 0, 
     "slippage": 40, 
 
     "gas_price_superfast" : 150,
-    "gas_price_fast" : 100,
+    "gas_price_fast" : 120,
     "gas_price_normal" : 60,
-    "gas_limit" : 1500000
+    "gas_limit" : 1000000
 }
